@@ -269,6 +269,7 @@ The current state is not really ready to go. It's a showcase that clearly demons
 - - Fomatting and style interfaces (functions, classes, etc | CamelCase, UpperCase, SnakeCase,...)
 - - Class lookup logic (map everything possible from c to auto-generated cpp implementation)
 - - c->cpp logic based on api conding style (write logic connected to parse logic)
+- - - correctly generate type_traits and templates for compile-time (constants), to provide the real power of cpp
 - - ...
 - auto-parse examples from c-code and generate cpp examples
 - documentation-integration
