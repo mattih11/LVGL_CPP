@@ -256,6 +256,10 @@ public:
 #endif // ARC_HPP
 ```
 
+there is also a GUI in TK that shows the parsing status:
+![Tk TreeView](resources/images/treeview.png "Title")
+
+
 ## Outlook and TODOs
 The current state is not really ready to go. It's a showcase that clearly demonstrates that this concept works.
 - split project into python classes
